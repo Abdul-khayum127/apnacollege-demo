@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my git repository
 <br>
-Authr-Abdulkhayum mujawar
+Authr-Abdulkhayum mujawar (apna college)
